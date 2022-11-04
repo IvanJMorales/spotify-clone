@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Player.css";
+import "../styles/Player.css";
 import Sidebar from "./Sidebar.js";
 import Body from "./Body.js";
 import Footer from "./Footer.js";

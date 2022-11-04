@@ -1,8 +1,8 @@
 import React from "react";
-import Header from "./Header.js";
-import SongRow from './SongRow.js';
-import "./Body.css";
-import { useDataLayerValue } from "./DataLayer.js";
+import Header from "../components/Header.js";
+import SongRow from '../components/SongRow.js';
+import "../styles/Body.css";
+import { useDataLayerValue } from "../DataLayer.js";
 import { Favorite, MoreHoriz, PlayCircleFilled } from "@material-ui/icons";
 
 

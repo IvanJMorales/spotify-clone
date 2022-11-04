@@ -1,7 +1,7 @@
 import React from 'react';
-import './Login.css';
-import spotifylogo from './images/spotifylogo.jpg';
-import { loginUrl } from "./spotify.js" /*curly braces to import variables*/
+import '../styles/Login.css';
+import spotifylogo from '../images/spotifylogo.jpg';
+import { loginUrl } from "../spotify.js" /*curly braces to import variables*/
 
 function Login() {
     return (
